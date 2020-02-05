@@ -1,6 +1,6 @@
 ---
-title: "React"
-date: "2019-04-02"
+title: "Now"
+date: "2020-02-02"
 ---
 
-In this post you'll learn React.
+In this post will list current work.

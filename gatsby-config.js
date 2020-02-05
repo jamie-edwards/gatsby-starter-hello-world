@@ -1,7 +1,7 @@
 module.exports = {
     siteMetadata: {
         title: 'Jamie Edwards',
-        author: 'JS Studio Ltd'
+        author: 'JE Studio Ltd'
     },
     plugins: [
         'gatsby-plugin-sass',

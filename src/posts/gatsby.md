@@ -1,9 +1,9 @@
 ---
-title: "The Great Gatsby Bootcamp"
-date: "2019-04-04"
+title: "Projects"
+date: "20202-04-04"
 ---
 
-I just launched a new bootcamp!
+Coming soon
 
 ## Topics Covered
 
