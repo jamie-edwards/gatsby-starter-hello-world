@@ -7,7 +7,7 @@ const IndexPage = () => {
     return (
         <Layout>
             <h1>Plan Code Grow</h1>
-            <h2>London based bespoke web development in London. Creating websites that build brands.</h2>
+            <h2>London based bespoke web development. Building brands through web.</h2>
         </Layout>
     )
 }
