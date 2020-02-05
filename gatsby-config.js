@@ -1,7 +1,7 @@
 module.exports = {
     siteMetadata: {
-        title: 'Full-Stack Bootcamp',
-        author: 'Andrew Mead'
+        title: 'Jamie Edwards',
+        author: 'JS Studio Ltd'
     },
     plugins: [
         'gatsby-plugin-sass',
