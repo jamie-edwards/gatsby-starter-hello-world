@@ -7,7 +7,8 @@ const ContactPage = () => {
         <Layout>
             <h1>Contact</h1>
             <p>
-                The best way to reach me is via <a href="https://twitter.com/@jamie_edwards" target="_blank">@jamie_edwards</a> on Twitter!
+               Email studio@jamieedwards.co</p>
+            <p>Twitter <a href="https://twitter.com/@jamie_edwards" target="_blank">@jamie_edwards</a>
             </p>
         </Layout>
     )
