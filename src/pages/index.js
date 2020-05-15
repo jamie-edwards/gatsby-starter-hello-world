@@ -6,7 +6,7 @@ import Layout from '../components/layout'
 const IndexPage = () => {
     return (
         <Layout>
-            <h1></h1>
+            <h1>Design & Code</h1>
             <h2>London based development.</h2>
         </Layout>
     )
