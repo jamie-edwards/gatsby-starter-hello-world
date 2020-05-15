@@ -9,7 +9,7 @@ const ContactPage = () => {
        
             <p>E: <a href="mailto:studio@jamieedwards.co">studio@jamieedwards.co</a></p>
 
-            <p><a href="https://www.instagram.com/edwards__jamie">Instagram</a> / <a href="https://www.linkedin.com/in/jamiesedwards">LinkedIn</a> / <p> <a href="https://twitter.com/@jamie_edwards" target="_blank">@jamie_edwards</a></p>
+            <p><a href="https://www.instagram.com/edwards__jamie">Instagram</a> / <a href="https://www.linkedin.com/in/jamiesedwards">LinkedIn</a></p>
         
             
         </Layout>
